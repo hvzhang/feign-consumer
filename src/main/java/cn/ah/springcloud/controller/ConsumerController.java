@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by Administrator on 2017/12/29.
+ * Created by Hui Zhang on 2017/12/29.
  */
 @RestController
 public class ConsumerController {

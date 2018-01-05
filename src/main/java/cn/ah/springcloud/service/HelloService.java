@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * Created by Administrator on 2017/12/29.
+ * Created by Hui Zhang on 2017/12/29.
  */
 @Component
 @FeignClient("hello-service")

@@ -1,7 +1,7 @@
 package cn.ah.springcloud.model;
 
 /**
- * Created by Administrator on 2017/12/29.
+ * Created by Hui Zhang on 2017/12/29.
  */
 public class User {
 
